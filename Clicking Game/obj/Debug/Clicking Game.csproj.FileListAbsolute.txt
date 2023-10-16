@@ -1,0 +1,20 @@
+D:\C#\C#\NewEra\Clicking Game\bin\Debug\Clicking Game.exe.config
+D:\C#\C#\NewEra\Clicking Game\bin\Debug\Clicking Game.exe
+D:\C#\C#\NewEra\Clicking Game\bin\Debug\Clicking Game.pdb
+D:\C#\C#\NewEra\Clicking Game\obj\Debug\Clicking Game.csproj.AssemblyReference.cache
+D:\C#\C#\NewEra\Clicking Game\obj\Debug\Clicking_Game.Form1.resources
+D:\C#\C#\NewEra\Clicking Game\obj\Debug\Clicking_Game.Properties.Resources.resources
+D:\C#\C#\NewEra\Clicking Game\obj\Debug\Clicking Game.csproj.GenerateResource.cache
+D:\C#\C#\NewEra\Clicking Game\obj\Debug\Clicking Game.csproj.CoreCompileInputs.cache
+D:\C#\C#\NewEra\Clicking Game\obj\Debug\Clicking Game.exe
+D:\C#\C#\NewEra\Clicking Game\obj\Debug\Clicking Game.pdb
+D:\C#\C#\Random Projects\Clicking Game\bin\Debug\Clicking Game.exe.config
+D:\C#\C#\Random Projects\Clicking Game\bin\Debug\Clicking Game.exe
+D:\C#\C#\Random Projects\Clicking Game\bin\Debug\Clicking Game.pdb
+D:\C#\C#\Random Projects\Clicking Game\obj\Debug\Clicking Game.csproj.AssemblyReference.cache
+D:\C#\C#\Random Projects\Clicking Game\obj\Debug\Clicking_Game.Form1.resources
+D:\C#\C#\Random Projects\Clicking Game\obj\Debug\Clicking_Game.Properties.Resources.resources
+D:\C#\C#\Random Projects\Clicking Game\obj\Debug\Clicking Game.csproj.GenerateResource.cache
+D:\C#\C#\Random Projects\Clicking Game\obj\Debug\Clicking Game.csproj.CoreCompileInputs.cache
+D:\C#\C#\Random Projects\Clicking Game\obj\Debug\Clicking Game.exe
+D:\C#\C#\Random Projects\Clicking Game\obj\Debug\Clicking Game.pdb
